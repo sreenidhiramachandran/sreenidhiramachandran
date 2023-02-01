@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenidhiramachandran&label=Profile%20views&color=0e75b6&style=flat" alt="sreenidhiramachandran" /> </p>
 
-- 🔭 I’m currently working on **DevOps projects.**
+- 🔭 Currently working on **DevOps projects.**
 
 - 📫 **sreenidhiram77@gmail.com**
 
