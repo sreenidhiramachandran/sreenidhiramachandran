@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Sree</h1>
 
-<h3 align="center">I'm a passionate cloud engineer.</h3>
+<h3 align="center">I'm a passionate devops engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenidhiramachandran&label=Profile%20views&color=0e75b6&style=flat" alt="sreenidhiramachandran" /> </p>
 
-- 🔭 Currently working on **DevOps projects.**
+- 🔭 Working on **DevOps projects.**
 
 - 📫 **sreenidhiram77@gmail.com**
 
